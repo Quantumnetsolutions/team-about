@@ -4,7 +4,7 @@ QuantumNet Solution is a team that has been tasked with assisting a growing tech
 ## Team Members 
 - Tianna Farrow (Team Lead): [LinkedIn](https://www.linkedin.com/in/tianna-farrow) [GitHub](https://github.com/raqueltianna)
 - Scotty Jokon: [LinkedIn](https://www.linkedin.com/in/scottyjokon/) [GitHub](https://github.com/SteezyLoh)
-- Israel Quirola Salas:
+- Israel Quirola Salas: [LinkedIn](https://www.linkedin.com/in/israelquirola/) [GitHub](https://github.com/israelqui)
 - Festus Oguhebe Jr:
 - Kevin Williams:
 
