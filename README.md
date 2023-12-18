@@ -13,7 +13,7 @@ QuantumNet Solution is a team that has been tasked with assisting a growing tech
 - [System Selection]
 - [Presentation Materials]
 - [SOPs](https://github.com/Quantumnetsolutions/SOPs/blob/main/README.md)
-- [Topologies and Visuals]
+- [Topologies and Visuals](https://github.com/Quantumnetsolutions/Visuals)
 
 ## Additional Resources 
 - [Team PM Tool](https://app.slack.com/huddle/T039KG69K/C06AFKZ32P6)
