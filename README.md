@@ -6,7 +6,7 @@ QuantumNet Solution is a team that has been tasked with assisting a growing tech
 - Scotty Jokon: [LinkedIn](https://www.linkedin.com/in/scottyjokon/) [GitHub](https://github.com/SteezyLoh)
 - Israel Quirola Salas: [LinkedIn](https://www.linkedin.com/in/israelquirola/) [GitHub](https://github.com/israelqui)
 - Festus Oguhebe Jr:
-- Kevin Williams:
+- Kevin Williams: [LinkedIn](www.linkedin.com/in/kevin-williams-14a00586) [GitHub](https://github.com/kevwill1992)
 
 ## Team Documents 
 - [Team Agreement]
